@@ -1,5 +1,8 @@
-# ArrayLeastValue
-Find least value in a given array
+# ArrayMinMaxValue
+Find minimum and maximum value in a given array in different ways:
+1. Using foreach loop
+2. Using arr.sort() function
+3. Using inbuilt functions of array
 
 Given an array of integers, find the least value from it. Example:
 1. If array is [-1, -2, 1, 2] then output should be -2.
